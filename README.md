@@ -1,3 +1,3 @@
 # quarkus-app-cd
 
-test2
+test3
