@@ -12,5 +12,5 @@ argocd app create --project default --name quarkus-app-prod \
 --sync-policy automated
 
 
-test7
+test8
 
